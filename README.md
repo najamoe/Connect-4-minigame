@@ -1,5 +1,6 @@
 # Connect-4-minigame
 
-To try the game, click [here]
+To try the game, click [here](https://najamoe.github.io/Connect-4-minigame/)
 
-![game](https://github.com/najamoe/Connect-4-minigame/assets/113134845/0f9a2f6f-b962-4513-a26b-e0566c79d064)
+<img src="https://github.com/najamoe/Connect-4-minigame/assets/game.png" alt="Game Image" width="400">
+
